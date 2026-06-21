@@ -1,5 +1,16 @@
+# Obsidian UI
+.obsidian/app.json
+.obsidian/appearance.json
+.obsidian/graph.json
 .obsidian/workspace.json
+.obsidian/workspace-mobile.json
 .obsidian/cache/
+.obsidian/hotkeys.json
+
+# Plugin local state
 .obsidian/plugins/**/data.json
+.obsidian/plugins/obsidian-git/data.json
+
+# System files
 .DS_Store
 Thumbs.db
