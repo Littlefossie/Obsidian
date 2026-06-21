@@ -8,6 +8,7 @@
 .obsidian/hotkeys.json
 
 # Plugin local state
+.obsidian/community-plugins.json
 .obsidian/plugins/**/data.json
 .obsidian/plugins/obsidian-git/data.json
 
