@@ -1,0 +1,2 @@
+# Obsidian
+Private Vault

@@ -1,0 +1,9 @@
+# Movies
+
+- [ ] Find episode left off on, watch Samurai Jack
+- [ ] Overwatch movie, 1-4, genesis, continue
+- [ ] Rewatch Wakfu
+### Side movies
+- [ ] Outside the wire
+- [x] Swapped ✅ 2026-06-16
+- [ ] The hill
