@@ -4,8 +4,8 @@
 	- [x] for armor pings, consolidate into one ping, and use if, function data send
 - [x] Horn
 - [ ] Ears
-- [ ] Tail
-- [ ] Tail physics
+- [x] Tail
+- [x] Tail physics
 - [ ] Faces
 - [ ] Emotes
 - [ ] Chest
@@ -16,8 +16,8 @@ Rusalka
 - [x] Ears
 - [ ] Ear wiggle,
 	- Done through animation
-- [ ] Tail?
-- [ ] Shark Tail?
+- [x] Tail?
+- [x] Shark Tail?
 trans
 - [ ] hair
 - [ ] eyes
@@ -30,7 +30,7 @@ frozen tundra
 - [ ] animations
 Kal'tsit
 - [ ] Hairs
-- [ ] Tail
+- [x] Tail
 - [ ] Shirt physics
 - [ ] scarf
 - [ ] ears
