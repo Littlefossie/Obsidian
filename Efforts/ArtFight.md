@@ -1,0 +1,2 @@
+- [ ] Draw/use sol's references
+- [ ] Decide on a drawing app
