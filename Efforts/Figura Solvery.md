@@ -6,6 +6,7 @@
 - [ ] Ears
 - [x] Tail
 - [x] Tail physics
+- [ ] Tail idle toggle
 - [ ] Faces
 - [ ] Emotes
 - [ ] Chest
