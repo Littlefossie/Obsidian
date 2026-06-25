@@ -1,6 +1,6 @@
 # Photoshop
-- [MediaFire](https://www.mediafire.com/file/rae6vr4ui2q3ffe/CS6_DesignStd_1.zip/file "https://www.mediafire.com/file/rae6vr4ui2q3ffe/CS6_DesignStd_1.zip/file")
-- [Drive](https://drive.google.com/file/d/1IyDAWbuIlFUghcWa95C-zNPx7yctiVyC/view?usp=sharing "https://drive.google.com/file/d/1IyDAWbuIlFUghcWa95C-zNPx7yctiVyC/view?usp=sharing")
+- [MediaFire zip](https://www.mediafire.com/file/rae6vr4ui2q3ffe/CS6_DesignStd_1.zip/file "https://www.mediafire.com/file/rae6vr4ui2q3ffe/CS6_DesignStd_1.zip/file")
+- [Drive 7z](https://drive.google.com/file/d/1IyDAWbuIlFUghcWa95C-zNPx7yctiVyC/view?usp=sharing "https://drive.google.com/file/d/1IyDAWbuIlFUghcWa95C-zNPx7yctiVyC/view?usp=sharing")
 - 140810032961364947945918
 
 
