@@ -30,6 +30,8 @@ quick pack
 more mob variants
 first person move char back and config
 
+Disabling shader player shadows fixes detailed animations speedup, ask sol on which todo but prob off
+
 Derivative
 Bliss
 Photon
@@ -49,7 +51,6 @@ Finish checking mobs
 
 ~~remove slime and magmacube~~
 
-Why does detailed anims speed up, maybe invmove??
 
 https://modrinth.com/user/lukidonu
 https://modrinth.com/resourcepack/visual-effects-plus
