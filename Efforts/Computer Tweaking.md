@@ -8,7 +8,7 @@
 - [ ] shelter
 - [ ] dorion
 
-- [ ] Obsidian GIT syncing
+- [x] Obsidian GIT syncing
 # Editing
 
 - [ ] Fix discord theme
