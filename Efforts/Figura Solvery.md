@@ -3,41 +3,61 @@
 - [x] Armor Hider Action wheel
 	- [x] for armor pings, consolidate into one ping, and use if, function data send
 - [x] Horn
-- [ ] Ears
+- [x] Ears
 - [x] Tail
 - [x] Tail physics
-- [ ] Tail idle toggle
+- [x] Tail idle toggle
 - [ ] Faces
 - [ ] Emotes
 - [ ] Chest
 - [ ] Animation pack
 - [ ] Skin swapper wheel
 
+### Anim fix
+~~Sprint jumping higher~~
+~~crouch higher~~
+crouch timer?? ease in, walk overwrite
+
+-- todo
+proper texture
+skin changer wheel
+proper action wheel,
+- nested pages
+- noises
+- color
+Either
+- Animate head to match
+- Turn into custom armor
+	- Renamed/additional slots
+- Cosmetica
+TTS
+
+
 Rusalka
 - [x] Ears
-- [ ] Ear wiggle,
+- [x] Ear wiggle,
 	- Done through animation
 - [x] Tail?
 - [x] Shark Tail?
 trans
-- [ ] hair
-- [ ] eyes
+- [ ] ~~hair~~
+- [ ] ~~eyes~~
 narwhal chans 
 - [ ] armor toggle
 - [ ] skin toggle
 - [x] horn
 frozen tundra
 - [x] horn
-- [ ] animations
+- [ ] ~~animations~~
 Kal'tsit
-- [ ] Hairs
+- [ ] ~~Hairs~~
 - [x] Tail
-- [ ] Shirt physics
-- [ ] scarf
-- [ ] ears
-- [ ] expression
+- [ ] ~~Shirt physics~~
+- [ ] ~~scarf~~
+- [x] ears
+- [ ] ~~expression~~
 Starhorn
-- [ ] physics
+- [ ] ~~physics~~
 
 
 Shark 5

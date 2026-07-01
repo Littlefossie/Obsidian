@@ -6,4 +6,5 @@
 ### Side movies
 - [ ] Outside the wire
 - [x] Swapped ✅ 2026-06-16
-- [ ] The hill
+- [x] The hill
+- [ ] Rocky series
