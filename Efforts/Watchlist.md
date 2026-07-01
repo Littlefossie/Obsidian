@@ -8,3 +8,4 @@
 - [x] Swapped ✅ 2026-06-16
 - [x] The hill
 - [ ] Rocky series
+- [ ] crazy stupid love
