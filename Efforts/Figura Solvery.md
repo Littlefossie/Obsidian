@@ -1,4 +1,4 @@
-# Solvery
+b# Solvery
 
 - [x] Armor Hider Action wheel
 	- [x] for armor pings, consolidate into one ping, and use if, function data send
@@ -23,14 +23,31 @@ proper texture
 skin changer wheel
 proper action wheel,
 - nested pages
-- noises
-- color
+- ~~noises~~
+- ~~color~~
+- ~~SAVING~~
 Either
-- Animate head to match
-- Turn into custom armor
-	- Renamed/additional slots
-- Cosmetica
-TTS
+- [ ] Animate head to match
+- ~~Turn into custom armor~~
+	- ~~Renamed/additional slots~~
+- ~~Cosmetica~~
+TTS?
+Head override toggle?
+
+
+-- action wheel
+~~armor~~
+Avatar
+- horn
+- Tail 0-2
+	- 0-2
+- Ear 0-2
+- puppy mode
+~~nullscape~~
+skin
+settings
+
+
 
 
 Rusalka

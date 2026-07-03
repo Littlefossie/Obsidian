@@ -29,6 +29,9 @@ EMF config
 quick pack
 more mob variants
 first person move char back and config
+Spawn Animations
+L_Ender's Cataclysm?
+- test how it works with worldgen
 
 Disabling shader player shadows fixes detailed animations speedup, ask sol on which todo but prob off
 
