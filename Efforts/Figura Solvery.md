@@ -41,14 +41,14 @@ Head override toggle?
 - ~~Ear 0-2~~
 - ~~puppy~~
 ~~nullscape~~
-skin
-- sol
-- puppy
-- eyes?
 settings
 - real head
 - real body
+- sol
+- puppy
+- eyes?
 lantern holding/hip
+nametag
 
 
 
