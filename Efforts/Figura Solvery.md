@@ -21,8 +21,8 @@ crouch timer?? ease in, walk overwrite
 -- todo
 proper texture
 skin changer wheel
-proper action wheel,
-- nested pages
+~~proper action wheel,~~
+- ~~nested pages~~
 - ~~noises~~
 - ~~color~~
 - ~~SAVING~~
@@ -38,11 +38,11 @@ Head override toggle?
 -- action wheel
 ~~armor~~
 Avatar
-- horn
-- Tail 0-2
+- ~~horn~~
+- ~~Tail 0-2~~
 	- 0-2
-- Ear 0-2
-- puppy mode
+- ~~Ear 0-2~~
+- ~~puppy~~
 ~~nullscape~~
 skin
 settings
