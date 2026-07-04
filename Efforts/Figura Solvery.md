@@ -49,6 +49,7 @@ settings
 - eyes?
 lantern holding/hip
 nametag
+scroll tick pitch
 
 
 
