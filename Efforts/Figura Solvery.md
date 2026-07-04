@@ -10,8 +10,6 @@ b# Solvery
 - [ ] Faces
 - [ ] Emotes
 - [ ] Chest
-- [ ] Animation pack
-- [ ] Skin swapper wheel
 
 ### Anim fix
 ~~Sprint jumping higher~~
@@ -20,7 +18,6 @@ crouch timer?? ease in, walk overwrite
 
 -- todo
 proper texture
-skin changer wheel
 ~~proper action wheel,~~
 - ~~nested pages~~
 - ~~noises~~
@@ -37,16 +34,21 @@ Head override toggle?
 
 -- action wheel
 ~~armor~~
-Avatar
+~~Avatar~~
 - ~~horn~~
 - ~~Tail 0-2~~
-	- 0-2
+	- ~~0-2~~
 - ~~Ear 0-2~~
 - ~~puppy~~
 ~~nullscape~~
 skin
+- sol
+- puppy
+- eyes?
 settings
-
+- real head
+- real body
+lantern holding/hip
 
 
 
