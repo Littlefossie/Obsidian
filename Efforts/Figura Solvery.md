@@ -44,10 +44,8 @@ Head override toggle?
 settings
 - ~~real head~~
 - ~~real body~~
-- nametag
-lantern holding/hip
+- ~~nametag~~
 scroll tick pitch
-Haishe tail scroll
 
 
 
