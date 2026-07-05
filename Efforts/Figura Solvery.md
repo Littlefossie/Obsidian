@@ -47,6 +47,7 @@ settings
 - nametag
 lantern holding/hip
 scroll tick pitch
+Haishe tail scroll
 
 
 
