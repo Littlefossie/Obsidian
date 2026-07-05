@@ -30,14 +30,9 @@ quick pack
 more mob variants
 first person move char back and config
 Spawn Animations
-L_Ender's Cataclysm?
+L_Ender's Cataclysm
 - test how it works with worldgen
-
-Disabling shader player shadows fixes detailed animations speedup, ask sol on which todo but prob off
-
-Derivative
-Bliss
-Photon
+shader config
 
 MODPACK WAS CRASHING CUZ YOU DIDNT SEND THE KUBEJS FOLDER
 
@@ -54,11 +49,6 @@ Finish checking mobs
 
 ~~remove slime and magmacube~~
 
-
-https://modrinth.com/user/lukidonu
-https://modrinth.com/resourcepack/visual-effects-plus
-https://modrinth.com/resourcepack/shrimps-immersive-interfaces
-https://modrinth.com/user/FreshLX
 
 --- 
 

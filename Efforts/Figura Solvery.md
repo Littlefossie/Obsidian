@@ -14,10 +14,10 @@ b# Solvery
 ### Anim fix
 ~~Sprint jumping higher~~
 ~~crouch higher~~
-crouch timer?? ease in, walk overwrite
+~~crouch~~ timer?? ease in, walk overwrite
 
 -- todo
-proper texture
+~~proper~~ texture
 ~~proper action wheel,~~
 - ~~nested pages~~
 - ~~noises~~
@@ -46,6 +46,10 @@ TTS?
 - ~~real body~~
 - ~~nametag~~
 ~~scroll tick pitch~~
+ANIMAL NOISE PAGE
+eyeballs
+
+duplicate for fossie
 
 
 
