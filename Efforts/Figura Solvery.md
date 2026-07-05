@@ -42,13 +42,10 @@ Head override toggle?
 - ~~puppy~~
 ~~nullscape~~
 settings
-- real head
-- real body
-- sol
-- puppy
-- eyes?
+- ~~real head~~
+- ~~real body~~
+- nametag
 lantern holding/hip
-nametag
 scroll tick pitch
 
 
