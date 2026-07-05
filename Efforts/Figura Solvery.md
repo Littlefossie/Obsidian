@@ -29,7 +29,7 @@ Either
 	- ~~Renamed/additional slots~~
 - ~~Cosmetica~~
 TTS?
-Head override toggle?
+~~Head override toggle?~~
 
 
 -- action wheel
@@ -41,11 +41,11 @@ Head override toggle?
 - ~~Ear 0-2~~
 - ~~puppy~~
 ~~nullscape~~
-settings
+~~settings~~
 - ~~real head~~
 - ~~real body~~
 - ~~nametag~~
-scroll tick pitch
+~~scroll tick pitch~~
 
 
 
