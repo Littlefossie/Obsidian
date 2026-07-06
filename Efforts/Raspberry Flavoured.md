@@ -26,7 +26,6 @@ Not enough anims config
 - ~~ladder anim OFF~~
 - ~~holding items NO ITEMS~~
 EMF config
-quick pack
 more mob variants
 first person move char back and config
 Spawn Animations
