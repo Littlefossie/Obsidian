@@ -30,9 +30,10 @@ quick pack
 more mob variants
 first person move char back and config
 Spawn Animations
-L_Ender's Cataclysm
-- test how it works with worldgen
 shader config
+dungeons and taverns
+remove openloader, resourceoverride, delete from config, delete pack folder and replace options
+PickUpTorches
 
 MODPACK WAS CRASHING CUZ YOU DIDNT SEND THE KUBEJS FOLDER
 
@@ -46,6 +47,7 @@ Put changes into BEDS rp
 ~~enderpearl texture~~
 Anvil
 Finish checking mobs
+skeleton broke
 
 ~~remove slime and magmacube~~
 
