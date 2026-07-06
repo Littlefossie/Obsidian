@@ -33,7 +33,7 @@ Spawn Animations
 shader config
 dungeons and taverns
 remove openloader, resourceoverride, delete from config, delete pack folder and replace options
-PickUpTorches
+
 
 MODPACK WAS CRASHING CUZ YOU DIDNT SEND THE KUBEJS FOLDER
 
