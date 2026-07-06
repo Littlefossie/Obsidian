@@ -33,7 +33,8 @@ Spawn Animations
 shader config
 dungeons and taverns
 remove openloader, resourceoverride, delete from config, delete pack folder and replace options
-
+nether chested
+Seamless portals?
 
 MODPACK WAS CRASHING CUZ YOU DIDNT SEND THE KUBEJS FOLDER
 
