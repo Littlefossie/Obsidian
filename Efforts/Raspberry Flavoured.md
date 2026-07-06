@@ -18,22 +18,24 @@ legendary tooltips~~
 - ~~physics removes particles~~
 - ~~remove a lot of config~~
 - ~~Lanter physics~~
-- Send config
-ryoamic light config
-Not enough anims config
+- ~~Send config~~
+~~ryoamic light config~~
+~~Not enough anims config~~
 - ~~Anim smoothing OFF~~
 - ~~dis leg smooth ON~~
 - ~~ladder anim OFF~~
 - ~~holding items NO ITEMS~~
-EMF config
-more mob variants
-first person move char back and config
-Spawn Animations
-shader config
-dungeons and taverns
+~~EMF config~~
+~~more mob variants~~
+~~first person move char back and config~~
+~~Spawn Animations~~
+~~shader config~~
+~~dungeons and taverns~~
+~~Mindful darkness config~~
 Ask if she wants creeper variants, caviat being babies buggy
-- remove openloader, resourceoverride, delete from config, delete pack folder and replace options
-nether chested
+Ask if she wants eye stuff
+-remove openloader, figura, resourceoverride, delete from config, delete pack folder and replace options
+~~nether chested~~
 
 
 MODPACK WAS CRASHING CUZ YOU DIDNT SEND THE KUBEJS FOLDER
@@ -47,11 +49,10 @@ Put changes into BEDS rp
 ~~GU~~I?
 ~~enderpearl texture~~
 ~~Anvil~~
-Finish checking mobs
-skeleton
-enderman head
-FA
-- skeleton.jem
+~~Finish checking mobs~~
+~~skeleton~~
+~~enderman head~~
+~~FA~~
 
 
 ~~remove slime and magmacube~~
