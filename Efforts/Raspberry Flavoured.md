@@ -50,6 +50,9 @@ Put changes into BEDS rp
 Finish checking mobs
 skeleton
 enderman head
+FA
+- skeleton.jem
+
 
 ~~remove slime and magmacube~~
 
