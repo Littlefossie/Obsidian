@@ -48,7 +48,7 @@ TTS?
 ~~scroll tick pitch~~
 ANIMAL NOISE PAGE
 eyeballs
-
+check if variables dont overlap
 duplicate for fossie
 
 

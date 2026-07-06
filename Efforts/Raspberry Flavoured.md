@@ -46,9 +46,10 @@ Put changes into BEDS rp
 ~~Animals~~
 ~~GU~~I?
 ~~enderpearl texture~~
-Anvil
+~~Anvil~~
 Finish checking mobs
-skeleton broke
+skeleton
+enderman head
 
 ~~remove slime and magmacube~~
 
