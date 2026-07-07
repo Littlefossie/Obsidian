@@ -31,6 +31,7 @@ Either
 TTS?
 ~~Head override toggle?~~
 crawl pose fix
+sitting
 
 
 -- action wheel
