@@ -65,6 +65,9 @@ piglin?
 
 Rose Gold - Silk touch, Magic res and dmg
 
+enchanting
+special weapons
+
 Farm mushrooms
 Lamp for oven?
 https://www.instagram.com/reels/DThW3g_gkf1/
