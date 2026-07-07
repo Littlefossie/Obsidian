@@ -32,9 +32,9 @@ legendary tooltips~~
 ~~shader config~~
 ~~dungeons and taverns~~
 ~~Mindful darkness config~~
-Ask if she wants creeper variants, caviat being babies buggy
-Ask if she wants eye stuff
--remove openloader, figura, resourceoverride, delete from config, delete pack folder and replace options
+~~Ask if she wants creeper variants, caviat being babies buggy~~
+~~Ask if she wants eye stuff~~
+	~~remove openloader, figura, resourceoverride, delete from config, delete pack folder and replace options~~
 ~~nether chested~~
 
 
