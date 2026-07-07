@@ -68,6 +68,8 @@ Rose Gold - Silk touch, Magic res and dmg
 enchanting
 special weapons
 
+check if schematics display
+
 Farm mushrooms
 Lamp for oven?
 https://www.instagram.com/reels/DThW3g_gkf1/
