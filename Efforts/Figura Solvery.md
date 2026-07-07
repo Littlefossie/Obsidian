@@ -30,6 +30,7 @@ Either
 - ~~Cosmetica~~
 TTS?
 ~~Head override toggle?~~
+crawl pose fix
 
 
 -- action wheel
