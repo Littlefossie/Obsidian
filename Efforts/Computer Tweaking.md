@@ -14,6 +14,7 @@
 - [ ] Fix discord theme
 	-  status bubble
 	- server preview background (tag)
+	- user thing
 - [ ] Upload to github for updating
 - [ ] discord application widget
 

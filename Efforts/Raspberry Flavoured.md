@@ -53,8 +53,8 @@ Put changes into BEDS rp
 ~~skeleton~~
 ~~enderman head~~
 ~~FA~~
-enderman and anvil re broke??
-piglin?
+enderman and anvil re broke?? - with shaders on
+piglin? not important
 
 
 ~~remove slime and magmacube~~
