@@ -74,5 +74,8 @@ check if schematics display
 Farm mushrooms
 Lamp for oven?
 https://www.instagram.com/reels/DThW3g_gkf1/
+https://www.instagram.com/reel/DXHxsvPE2uV/
+https://www.tiktok.com/t/ZP8GQmHDr/
+
 
 --- 
