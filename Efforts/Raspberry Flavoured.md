@@ -36,6 +36,7 @@ legendary tooltips~~
 ~~Ask if she wants eye stuff~~
 	~~remove openloader, figura, resourceoverride, delete from config, delete pack folder and replace options~~
 ~~nether chested~~
+https://www.curseforge.com/minecraft/mc-mods/sitting
 
 
 MODPACK WAS CRASHING CUZ YOU DIDNT SEND THE KUBEJS FOLDER
