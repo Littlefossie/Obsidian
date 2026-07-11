@@ -1,13 +1,14 @@
 # Iffy mods
-half life terminal
-hellpods
-ship ambience
+~~half life terminal~~
+hellpods ):
+kowone sound ):
+~~ship ambience~~
 
 
 
-go thru mods that update dont find
+go thru mods that update dont find ~
 
-voicelines
+~~voicelines~~
 
 
 https://www.nexusmods.com/helldivers2/mods/13993
