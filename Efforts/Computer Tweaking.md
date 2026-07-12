@@ -19,3 +19,4 @@
 - [ ] discord application widget
 
 - [ ] Look into WIFI, laptop receivers faster
+	- [ ] wifi settings, AFC
