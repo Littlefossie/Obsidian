@@ -37,6 +37,7 @@ legendary tooltips~~
 	~~remove openloader, figura, resourceoverride, delete from config, delete pack folder and replace options~~
 ~~nether chested~~
 fix achievement list
+try and fix sitting lantern physics
 
 
 
