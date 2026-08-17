@@ -12,3 +12,4 @@
 - [ ] Bone tomahawk
 - [ ] Ladykillers
 - [ ] Minions and monsters
+- [ ] Tropic Thunder
