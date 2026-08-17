@@ -10,3 +10,5 @@
 - [ ] Rocky series
 - [ ] crazy stupid love
 - [ ] Bone tomahawk
+- [ ] Ladykillers
+- [ ] Minions and monsters
