@@ -3,13 +3,14 @@ Jan 25 - lee
 Jan 25 - Lynn
 Feb 1/2 - Jager
 Feb 14 - Quinn
-Feb 17 - Solvery
+Feb 17 - Maya
 Apr 10 - Veil
 Apr 23 - Emmett
 May 26 - Emi
 May 28 - Basil
 June 16 - Cami
 Aug 8 - Josh
+Sep 12 - Jayy
 Sep 24 - Fang
 Oct 18 - Aven
 Oct 27 - User
