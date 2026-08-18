@@ -1,0 +1,1 @@
+In my first relationship they'd always initiate/ask for intimate stuff, and we'd make deals like I do x you do x. But when it came down to it it'd always just be me doing my part and her backing out of hers and typically ended up with me just having to give up or beg in a sense
