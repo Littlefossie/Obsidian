@@ -11,7 +11,7 @@
 - [ ] crazy stupid love
 - [ ] Bone tomahawk
 - [ ] Ladykillers
-- [ ] Minions and monsters
+- [x] Minions and monsters
 - [ ] Tropic Thunder
 - [ ] The Gorge
 - [ ] Rebel ridge
