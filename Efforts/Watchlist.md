@@ -14,5 +14,5 @@
 - [ ] Minions and monsters
 - [ ] Tropic Thunder
 - [ ] The Gorge
-- [ ] rebel ridge
+- [ ] Rebel ridge
 - [ ] Sinister
