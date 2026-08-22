@@ -4,10 +4,18 @@ Besides that, not necessarily related to this or the response but since its just
 
 Trauma
 
+I don't particularily appreciate when you go to my other friends to fetch what I've said from them. Yes, I understand how I've worded a lot of stuff in a unfavorable way, but when venting I typically do try
 
 
 Come off
 
 
 
-Withheld and cooperation?wd
+
+Withheld and cooperation?
+
+
+
+
+Not how you push someone away
+
