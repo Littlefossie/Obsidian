@@ -20,3 +20,6 @@
 
 - [ ] Look into WIFI, laptop receivers faster
 	- [ ] wifi settings, AFC
+
+
+HARD DRIVES RAID
